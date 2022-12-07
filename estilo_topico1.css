@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif    
+}
+
+.titulo-1{
+    color: rgb(80, 39, 1);
+    text-align: center;
+    font-size: 50px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+iframe {
+    padding-top: 5px;
+}
